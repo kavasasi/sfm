@@ -1,0 +1,2 @@
+# sfm
+Self Finance Management
